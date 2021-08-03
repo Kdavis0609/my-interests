@@ -1,0 +1,25 @@
+.header {color: blue; text-align: center; }
+.opening {font-size: 22px; text-align: center; }
+.lead {color: green; text-align: center;}
+.center {margin-left: auto; margin-right: auto; text-align: center; font-size: 18px; color: firebrick;}
+.paragraph {margin-right: 15%; margin-left: 15%; text-align: center; font-size: 18px;}
+.colorli {color: #051751; margin-left: 10%;}
+.imageL {border-radius: 8px; margin-left: 8%;}
+.imageC {border-radius: 8px; margin-left: 2%;}
+.imageR {border-radius: 8px; margin-left: 2%;}
+.tdL {text-align: left;}
+.tdR {text-align: right;}
+
+
+.list-imgs {
+    display: flex;  
+}
+.list-imgs > .list-imgs-item {
+}
+
+.list-imgs > .list-imgs-item > .list-imgs-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
